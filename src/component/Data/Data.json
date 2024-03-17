@@ -1,0 +1,203 @@
+
+
+[{
+    "id":"certificate",
+    "Mycertificate":[
+        {
+       "heading":"Technical Comp" ,
+       "certificate":[
+        {
+       "Header":"Node.js Essentials"
+       ,"social":"Linkedin Learning"
+       ,"img":"https://oktayshakirov.com/assets/images/certificates/node.js-essentials.png"
+       },
+       {
+        "Header":"React.js Essentials"
+        ,"social":"Linkedin Learning"
+        ,"img":"https://oktayshakirov.com/assets/images/certificates/node.js-essentials.png"
+        } ,
+        {
+            "Header":"javaScript.js Essentials"
+            ,"social":"Linkedin Learning"
+            ,"img":"https://oktayshakirov.com/assets/images/certificates/node.js-essentials.png"
+            },
+            {
+                "Header":"Fundamental of Digital Marketing"
+                ,"social":"Google Cerified Digital Marketing Course"
+                ,"img":"https://oktayshakirov.com/assets/images/certificates/node.js-essentials.png"
+                },
+                {
+                    "Header":"Elements Of AI"
+                    ,"social":"University of Helsinki"
+                    ,"img":"https://oktayshakirov.com/assets/images/certificates/node.js-essentials.png"
+                    }
+
+       ]       
+    },
+        {
+        "heading":"Professional skill"
+        , "skills":[
+            {
+                "Header":"EEfficient Email Management"
+                ,"uni":"WEKA Media GmbH & Co. KG"
+                ,"img":"https://oktayshakirov.com/assets/images/certificates/node.js-essentials.png"
+                },
+                {
+                    "Header":"Time And Self Management"
+                    ,"uni":"VIWIS GmbH"
+                    ,"img":"https://oktayshakirov.com/assets/images/certificates/node.js-essentials.png"
+                    },
+                    {
+                        "Header":"Excel 2013 Professional"
+                        ,"uni":"Microsoft"
+                        ,"img":"https://oktayshakirov.com/assets/images/certificates/node.js-essentials.png"
+                        },
+                        {
+                            "Header":"Word 2013 Professional"
+                            ,"uni":"UMicrosoft"
+                            ,"img":"https://oktayshakirov.com/assets/images/certificates/node.js-essentials.png"
+                            },
+                            {
+                                "Header":"Intercultural Competence"
+                                ,"uni":"IMAP GmbH"
+                                ,"img":"https://oktayshakirov.com/assets/images/certificates/node.js-essentials.png"
+                                },
+                                {
+                                    "Header":"Communication And Complaint Management"
+                                    ,"uni":"Hiba impulse GmbH"
+                                    ,"img":"https://oktayshakirov.com/assets/images/certificates/node.js-essentials.png"
+                                    }
+        ]
+        },
+        {
+            "heading":"Language Proficiency"
+            ,"language":[
+                {
+                    "Header":"German Language C1"
+                    ,"social":"TELC European Language Certificates"
+                    ,"img":"https://oktayshakirov.com/assets/images/certificates/node.js-essentials.png"
+                    },
+                    {
+                        "Header":"English Language B2"
+                        ,"social":"LinguaTV GmbH"
+                        ,"img":"https://oktayshakirov.com/assets/images/certificates/node.js-essentials.png"
+                        }
+            ]
+        }
+    
+
+    ]
+},
+
+{
+    "id":"project",
+    "Project":[
+        {
+        "heading":"website"
+        ,"data":[
+            {
+                "header":"MyBestWishes AI Generator"
+                ,"course":"Design + Frontend Figma | React.js | Chakra UI"
+                ,"img":""
+            },
+            {
+                "header":"MyWorkPhoto AI Generator"
+                ,"course":"Design + Frontend Figma | React.js | Chakra UI"
+                ,"img":""
+            },{
+                "header":"AskMed By Bayer"
+                ,"course":"Website + Chatbot Drupal | PHP | CSS"
+                ,"img":""
+            },{
+                "header":"Personal Portfolio"
+                ,"course":"Website JavaScript | CSS | HTML"
+                ,"img":""
+            },{
+                "header":"EnEmZet Online Store"
+                ,"course":"Website + Admin Panel Next.js | TypeScript | MySQL"
+                ,"img":""
+            },{
+                "header":"Beyond Tinnitus Blog"
+                ,"course":"Website Next.js | TypeScript | Material-UI"
+                ,"img":""
+            },{
+                "header":"Timeazon Online Store"
+                ,"course":"Website + Admin Panel React.js | Node.js | MySQL | Sass"
+                ,"img":""
+            }
+        ]
+
+        }
+        ,{
+            "heading":"aplication",
+            "data":[
+                {
+                    "header":"FashionSwap App"
+                    ,"course":"Design + Frontend Figma | React.js | Chakra UI"
+                    ,"img":"https://oktayshakirov.com/assets/images/projects/FashioSwap.png"
+                },{
+                    "header":"Team Management Tool"
+                    ,"course":"Application PHP | CSV Data | CSS"
+                    ,"img":"https://oktayshakirov.com/assets/images/projects/team-manager.png"
+                },{
+                    "header":"Inventory Management App"
+                    ,"course":"Design + Frontend Figma | React.js | Chakra UI"
+                    ,"img":"https://oktayshakirov.com/assets/images/projects/contour.png"
+                },{
+                    "header":"Ogno Marketing Dashboard"
+                    ,"course":"Fullstack Project React.js | Strapi.js | MySQL"
+                    ,"img":"https://oktayshakirov.com/assets/images/projects/ogno-dashboard.png"
+                },{
+                    "header":"Weather App"
+                    ,"course":"BerliNEW Android App"
+                    ,"img":"https://oktayshakirov.com/assets/images/projects/weather-app.png"
+                },{
+                    "header":"FashionSwap App"
+                    ,"course":"Application Wordpress | Android SDK"
+                    ,"img":"https://oktayshakirov.com/assets/images/projects/berlinew.jpg"
+                }
+            ]
+        }
+        ,{
+            "heading":"games",
+            "data":[
+              {
+                "header":"Pigletz Memory Game",
+                "Course":"Web Game JavaScript | CSS"
+                ,"img":""
+              },
+              {
+                "header":"Quiz Time",
+                "Course":"Game PHP | CSS | HTML"
+              }
+            ]
+        }
+            ]
+
+        }
+        ,{
+            "more":[
+                {
+                    "Heading":"Side Project"
+                    ,"data":[
+                        {
+                            "header":"Pigletz",
+                            "para":"I create and manage the Pigletz community's social media presence, including producing and editing high-quality Web3 content for their YouTube channel. I also work on expanding the community's reach and impact through partnerships in the Web3 space."
+                            ,
+                        "p":"Marketing & BizDev Content Creator"
+                        },
+                        {
+                            "header":"Music Production",
+                            "para":"Produced over 100 instrumentals in different genres, collaborated with artists and my beats are on popular streaming platforms like Spotify, iTunes, Amazon and Deezer. They can also be purchased exclusively on my beatstore for musicians to create their unique sound.",
+                            "p":"Beat Making Sound Design"
+                        }
+                    ]
+                }
+            ]
+        }
+        
+    ]
+
+
+
+ 
